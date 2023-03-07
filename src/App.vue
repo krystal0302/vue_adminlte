@@ -5,7 +5,7 @@
       <Navbar></Navbar>
       <Sidebar></Sidebar>
 
-      <div class="content-wrapper">
+      <div class="content-wrapper farobot-dark-mode">
         
         <ContentHeader></ContentHeader>
 
@@ -31,6 +31,8 @@ import ContentHeader from "./views/ContentHeader.vue"
 import Navbar from "./views/Navbar.vue";
 import Sidebar from "./views/Sidebar.vue";
 import ControlSidebar from "./views/ControlSidebar.vue"
+
+import "./assets/css/general-style.css"
 
 
 export default {

@@ -381,13 +381,13 @@ input:checked + .slider:before {
 /* Left */
 ::-webkit-scrollbar-button:horizontal:decrement
 {
-  background-image: url(../img/left-arrow.png);
+  background-image: url(../images/left-arrow.png);
 }
 
 /* Right */
 ::-webkit-scrollbar-button:horizontal:increment
 {
-  background-image: url(../img/right-arrow.png);
+  background-image: url(../images/right-arrow.png);
 }
 
 

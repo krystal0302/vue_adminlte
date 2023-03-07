@@ -2,22 +2,22 @@
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="index.html" class="brand-link">
-      <img src="../assets/FARobotLogo.png" alt="FARobot Logo" class="brand-image img-circle elevation-3 logo-xs">
-      <img src="../assets/FARobotLogo_lg.png" alt="FARobot Logo" class="brand-image logo-xl">
+    <a href="index.html" class="brand-link logo-switch">
+      <img src="../assets/images/FARobotLogo.png" alt="FARobot Logo" class="brand-image img-circle elevation-3 logo-xs">
+      <img src="../assets/images/FARobotLogo_lg.png" alt="FARobot Logo" class="brand-image logo-xl">
     </a>
 
     <!-- Sidebar -->
     <div class="sidebar">
       <!-- Sidebar user panel (optional) -->
-      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-        <!-- <div class="image">
+      <!-- <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="image">
           <img src="../assets/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
           <a href="#" class="d-block">Carlos Carvalho</a>
-        </div> -->
-      </div>
+        </div>
+      </div> -->
 
       <!-- SidebarSearch Form -->
       <div class="form-inline">
